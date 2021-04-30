@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2c803a58.chunk.js",
+    "main.js.map": "/static/js/main.2c803a58.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d6c088c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d6c088c.js.map",
+    "static/js/2.2cdb572a.chunk.js": "/static/js/2.2cdb572a.chunk.js",
+    "static/js/2.2cdb572a.chunk.js.map": "/static/js/2.2cdb572a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.2cdb572a.chunk.js.LICENSE.txt": "/static/js/2.2cdb572a.chunk.js.LICENSE.txt",
+    "static/media/calculation.8dadcc2b.svg": "/static/media/calculation.8dadcc2b.svg",
+    "static/media/clock.148969c1.svg": "/static/media/clock.148969c1.svg",
+    "static/media/farm.cedafcb3.svg": "/static/media/farm.cedafcb3.svg",
+    "static/media/hamburger.724401b5.svg": "/static/media/hamburger.724401b5.svg",
+    "static/media/hamburgerClose.b9023e70.svg": "/static/media/hamburgerClose.b9023e70.svg",
+    "static/media/home.3f392b73.svg": "/static/media/home.3f392b73.svg",
+    "static/media/language.d9cd5bb2.svg": "/static/media/language.d9cd5bb2.svg",
+    "static/media/logo.7bc6643c.png": "/static/media/logo.7bc6643c.png",
+    "static/media/logo2.8d6f1954.png": "/static/media/logo2.8d6f1954.png",
+    "static/media/longarrow.7dd77516.svg": "/static/media/longarrow.7dd77516.svg",
+    "static/media/mainbg.3ea345d5.png": "/static/media/mainbg.3ea345d5.png",
+    "static/media/moon.51569faa.svg": "/static/media/moon.51569faa.svg",
+    "static/media/more.da3b211f.svg": "/static/media/more.da3b211f.svg",
+    "static/media/pools.b0e52b09.svg": "/static/media/pools.b0e52b09.svg",
+    "static/media/samurai.9e8b3657.png": "/static/media/samurai.9e8b3657.png",
+    "static/media/samurais.e6f8060b.png": "/static/media/samurais.e6f8060b.png",
+    "static/media/secondbg.6b1e51c3.png": "/static/media/secondbg.6b1e51c3.png",
+    "static/media/settings.0b120df2.svg": "/static/media/settings.0b120df2.svg",
+    "static/media/sun.09015a80.svg": "/static/media/sun.09015a80.svg",
+    "static/media/trade.251827f2.svg": "/static/media/trade.251827f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d6c088c.js",
+    "static/js/2.2cdb572a.chunk.js",
+    "static/js/main.2c803a58.chunk.js"
+  ]
+}
